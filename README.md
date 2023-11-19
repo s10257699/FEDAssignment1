@@ -22,11 +22,11 @@ In this section, I would go over the different parts of the website.
 * Feature 2: **Music**
   The "Music" feature allows fans and newcomers to explore the band's discography, providing a curated collection of albums and songs. Fans can easily discover and enjoy Wave to Earth's entire musical catalog.
 
-  * Feature 3: **Tour**
-    The "Tour" secion keeps event-goers informed about upcoming concerts and events, allowing them to plan and experience Wave to Earth live.
+* Feature 3: **Tour**
+  The "Tour" secion keeps event-goers informed about upcoming concerts and events, allowing them to plan and experience Wave to Earth live.
 
-  * Feature 4: **Merch**
-    In the "Merch" section, ans can explore and purchase exclusive merchandise, fostering a deeper connection with the band and providing a concrete way to support their favourite artists.
+* Feature 4: **Merch**
+  In the "Merch" section, ans can explore and purchase exclusive merchandise, fostering a deeper connection with the band and providing a concrete way to support their favourite artists.
 
-  * Feature 5: **Sign Up**
-    The "Sign Up" feature enables users to join the community, ensuring they stay updated on the latest releases, tour dates, and exclusive content.
+* Feature 5: **Sign Up**
+  The "Sign Up" feature enables users to join the community, ensuring they stay updated on the latest releases, tour dates, and exclusive content.
