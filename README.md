@@ -1,6 +1,6 @@
 # FEDAssignment1
 Welcome to the Wave to Earth website!
-This is an ultimate online destination designed exclusively for Wave to Earth fans, plankton. This project aims to create a visually stunning and immersive website that serves as a central hub for fans and newcomers to explore, engage and connect with the band. With sleek user interface design and seamless integration through this website, the Wave to Earth website will provide a unique digital experience, showcasing the band's discography, upccoming events, and a captivating gallery that captures the essence of Wave to Earth's musically identity.
+This is an ultimate online destination designed exclusively for Wave to Earth fans, plankton. This project aims to create a visually stunning and immersive website that serves as a central hub for fans and newcomers to explore, engage and connect with the band. With sleek user interface design and seamless integration through this website, the Wave to Earth website will provide a unique digital experience, showcasing the band's discography, upcoming events, and a captivating gallery that captures the essence of Wave to Earth's musically identity.
 
 ## Design Process
 Our design process revolves around understanding the needs and desires of Wave to Earth's diverse audience. Through user stories, I have identified key functionalities to ensure an optimal user experience:
@@ -20,7 +20,7 @@ In this section, I would go over the different parts of the website.
   The "About" section provides users with a comprehensive overview of Wave to Earth, detailing the band's history, members, and their unique musical journey.
 
 * Feature 2: **Music**  
-  The "Music" feature allows fans and newcomers to explore the band's discography, providing a curated collection of albums and songs. Fans can easily discover and enjoy Wave to Earth's entire musical catalog.
+  The "Music" feature allows fans and newcomers to explore the band's discography, providing a curated collection of albums and songs. Fans can easily discover and enjoy Wave to Earth's entire musical catalogue.
 
 * Feature 3: **Tour**  
   The "Tour" secion keeps event-goers informed about upcoming concerts and events, allowing them to plan and experience Wave to Earth live.
