@@ -11,3 +11,22 @@ As part of the design process, we have created wireframes to visualise and plan 
 
 [Figma Wireframe](https://www.figma.com/file/5Xj4qOTSTRWVh25WZqn3XV/FEDAssignment1-(Wireframe)?type=design&node-id=0%3A1&mode=design&t=wlHTIqtAyh0zh5q8-1)
 
+
+## Features
+In this section, I would go over the different parts of the website.
+
+### Existing Features
+* Feature 1: **About**
+  The "About" section provides users with a comprehensive overview of Wave to Earth, detailing the band's history, members, and their unique musical journey.
+
+* Feature 2: **Music**
+  The "Music" feature allows fans and newcomers to explore the band's discography, providing a curated collection of albums and songs. Fans can easily discover and enjoy Wave to Earth's entire musical catalog.
+
+  * Feature 3: **Tour**
+    The "Tour" secion keeps event-goers informed about upcoming concerts and events, allowing them to plan and experience Wave to Earth live.
+
+  * Feature 4: **Merch**
+    In the "Merch" section, ans can explore and purchase exclusive merchandise, fostering a deeper connection with the band and providing a concrete way to support their favourite artists.
+
+  * Feature 5: **Sign Up**
+    The "Sign Up" feature enables users to join the community, ensuring they stay updated on the latest releases, tour dates, and exclusive content.
