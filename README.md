@@ -34,6 +34,13 @@ In this section, I would go over the different parts of the website.
 ## Technologies Used
 In this section, I will be mentioning all of the languages, frameworks, libraries, and any other tools that I have used to construct this project. 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  ** HTML is the standard markup language fo creating web pages. It helps with the structuring of content on the web and is a fundamental part of building web pages.
+  - HTML is the standard markup language fo creating web pages. It helps with the structuring of content on the web and is a fundamental part of building web pages.
+  
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  ** CSS (Cascading Style Sheets) is used for styling and layouting web pages. It controls the visual presentation of the HTML elements, enhancing the project's aesthetic appeal and user experience.
+  - CSS (Cascading Style Sheets) is used for styling and layouting web pages. It controls the visual presentation of the HTML elements, enhancing the project's aesthetic appeal and user experience.
+
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - JavaScript is a programming language that enables interactive web pages. It is used to implement features, handle events, and enhance user interaction in this project.
+  - The webpage utilizes JavaScript for a pop-up feature triggered when users sign up, displaying a "Thank you for signing up!" message.
+  - It is also employed for smooth scroll behavior, achieved through the 'behavior: 'smooth' property in the 'window.scrollTo' function, providing a visually pleasing scrolling experience between sections.
+  - Additionally, JavaScript is utilized for scroll animations and styling changes, dynamically adjusting the header's size, position, and content presentation based on the user's scroll behavior, enhancing the overall visual appeal and navigation experience.
