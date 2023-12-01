@@ -34,3 +34,6 @@ In this section, I would go over the different parts of the website.
 ## Technologies Used
 In this section, I will be mentioning all of the languages, frameworks, libraries, and any other tools that I have used to construct this project. 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  ** HTML is the standard markup language fo creating web pages. It helps with the structuring of content on the web and is a fundamental part of building web pages.
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  ** CSS (Cascading Style Sheets) is used for styling and layouting web pages. It controls the visual presentation of the HTML elements, enhancing the project's aesthetic appeal and user experience.
