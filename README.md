@@ -30,3 +30,7 @@ In this section, I would go over the different parts of the website.
 
 * Feature 5: **Sign Up**  
   The "Sign Up" feature enables users to join the community, ensuring they stay updated on the latest releases, tour dates, and exclusive content.
+
+## Technologies Used
+In this section, I will be mentioning all of the languages, frameworks, libraries, and any other tools that I have used to construct this project. 
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)https://developer.mozilla.org/en-US/docs/Web/HTML
