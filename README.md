@@ -61,4 +61,4 @@ In this section, I will be mentioning all of the languages, frameworks, librarie
   * The '0.1 flaws and all.' album cover was obtained from [Wikipedia](https://en.wikipedia.org/wiki/0.1_Flaws_and_All#/media/File:Cover_of_Wave_to_Earth's_album_0.1_Flaws_and_All.png).
   * The 'summer flows 0.02' album cover was obtained from [Last.fm](https://www.last.fm/music/wave+to+earth/summer+flows+0.02/+images/9efc83368bf5ec624dcf258499d8051c).
   * The 'wave 0.01' album cover obtained [Korean Indie](https://www.koreanindie.com/2020/01/28/wave-to-earth-wave-0-01/).
-  * The video background in the Tour section was a screen recording from Wave to Earth's [YouTube](https://www.youtube.com/watch?v=bla0YBsd0DQ) video featuring their live performance during the 'Deep Dive in Seoul/Busan Tour'.
+  * The video background in the Tour section was a screen recording from Wave to Earth's [YouTube](https://www.youtube.com/watch?v=bla0YBsd0DQ#t=2m43s-3m37s) (from 2:43 to 3:37) video featuring their live performance during the 'Deep Dive in Seoul/Busan Tour'.
