@@ -54,11 +54,24 @@ In this section, I will be mentioning all of the languages, frameworks, librarie
 * The paragraph in the Sign up section was referenced from [Coldplay's](https://www.coldplay.com/sign-up/) website.
 * The footer below the Sign up section was referenced from [Ed Sheeran's](https://www.edsheeran.com/) website.
 
-  ### Media
-  * The group photo in the About section was obtained from [kpopping](https://kpopping.com/profiles/group/wave-to-earth).
-  * The individual members photo was obtained from [KProfiles](https://kprofiles.com/wave-to-earth-members-profile/).
-  * The YouTube video was obtained from Wave to Earth's offical [YouTube](https://www.youtube.com/watch?v=I_Es_7QGI94).
-  * The '0.1 flaws and all.' album cover was obtained from [Wikipedia](https://en.wikipedia.org/wiki/0.1_Flaws_and_All#/media/File:Cover_of_Wave_to_Earth's_album_0.1_Flaws_and_All.png).
-  * The 'summer flows 0.02' album cover was obtained from [Last.fm](https://www.last.fm/music/wave+to+earth/summer+flows+0.02/+images/9efc83368bf5ec624dcf258499d8051c).
-  * The 'wave 0.01' album cover obtained [Korean Indie](https://www.koreanindie.com/2020/01/28/wave-to-earth-wave-0-01/).
-  * The video background in the Tour section was a screen recording from Wave to Earth's [YouTube](https://www.youtube.com/watch?v=bla0YBsd0DQ#t=2m43s-3m37s) (from 2:43 to 3:37) video featuring their live performance during the 'Deep Dive in Seoul/Busan Tour'.
+### Media
+#### About Section
+* The group photo in the About section was obtained from [kpopping](https://kpopping.com/profiles/group/wave-to-earth).
+* The individual members photo was obtained from [KProfiles](https://kprofiles.com/wave-to-earth-members-profile/).
+#### Music Section
+* The YouTube video was obtained from Wave to Earth's offical [YouTube](https://www.youtube.com/watch?v=I_Es_7QGI94).
+* The '0.1 flaws and all.' album cover was obtained from [Wikipedia](https://en.wikipedia.org/wiki/0.1_Flaws_and_All#/media/File:Cover_of_Wave_to_Earth's_album_0.1_Flaws_and_All.png).
+* The 'summer flows 0.02' album cover was obtained from [Last.fm](https://www.last.fm/music/wave+to+earth/summer+flows+0.02/+images/9efc83368bf5ec624dcf258499d8051c).
+* The 'wave 0.01' album cover obtained [Korean Indie](https://www.koreanindie.com/2020/01/28/wave-to-earth-wave-0-01/).
+* The video background in the Tour section was a screen recording from Wave to Earth's [YouTube](https://www.youtube.com/watch?v=bla0YBsd0DQ#t=2m43s-3m37s) (from 2:43 to 3:37) video featuring their live performance during the 'Deep Dive in Seoul/Busan Tour'.
+#### Merch Section
+* The 'Wave to Earth Hoodie' image was taken from [Etsy](https://www.etsy.com/sg-en/listing/1555856078/wave-to-earth-hoodie-homesick-unisex?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=wave+to+earth+shirt&ref=sr_gallery-1-4&pro=1&sts=1&organic_search_click=1).
+* The 'Wave to Earth Necklace Collection' image was taken from [Etsy](https://www.etsy.com/sg-en/listing/1535554800/wave-to-earth-inspired-necklace?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=wave+to+earth+shirt&ref=sr_gallery-1-2&frs=1&organic_search_click=1).
+* * The 'Wave to Earth North America Tour Shirt' image was taken from [Etsy](https://www.etsy.com/sg-en/listing/1540228176/wave-to-earth-shirt-flaws-and-all-album?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=wave+to+earth+shirt&ref=sr_gallery-1-1&pro=1&sts=1&organic_search_click=1).
+#### Footer
+* The Facebook logo was obtained from [ICONFINDER](https://www.iconfinder.com/icons/5282541/fb_social_media_facebook_facebook_logo_social_network_icon).
+* The Instagram logo was obtained from [ICONFINDER](https://www.iconfinder.com/icons/5282541/fb_social_media_facebook_facebook_logo_social_network_iconhttps://www.iconfinder.com/icons/1161953/instagram_icon).
+* The TikTok logo was obtained from [ICONFINDER](https://www.iconfinder.com/icons/7693325/tiktok_social_media_logo_apps_icon#png-48).
+* The YouTube logo was obtained from [ICONFINDER](https://www.iconfinder.com/icons/5305164/play_video_youtube_youtube_logo_icon).
+* The Twitter logo was obtained from [ICONFINDER](https://www.iconfinder.com/icons/11053969/x_logo_twitter_new_brand_contained_x.com_social_icon).
+* The Spotify logo was obtained from [ICONFINDER](https://www.iconfinder.com/icons/621252/rounded_spotify_icon).
