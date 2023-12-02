@@ -18,6 +18,7 @@ In this section, I would go over the different parts of the website.
 ### Existing Features
 * Feature 1: **About**  
   The "About" section provides users with a comprehensive overview of Wave to Earth, detailing the band's history, members, and their unique musical journey.
+  * Hovering over each member's profile image triggers an enlargement effect, accompanied by a cursor change to a pointing finger, indicating clickability. Clicking on the images opens a new tab, directing users to their respective Instagram profiles. This interactive feature allows users to delve deeper into each member's background and personality.
 
 * Feature 2: **Music**  
   The "Music" feature allows fans and newcomers to explore the band's discography, providing a curated collection of albums and songs. Fans can easily discover and enjoy Wave to Earth's entire musical catalogue.
