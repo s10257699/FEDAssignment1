@@ -46,10 +46,11 @@ In this section, I will be mentioning all of the languages, frameworks, librarie
   - Additionally, JavaScript is utilized for scroll animations and styling changes, dynamically adjusting the header's size, position, and content presentation based on the user's scroll behavior, enhancing the overall visual appeal and navigation experience.
 
 ## Testing
-1. Sign-up Form:
-   i. Go to the Sign-up section
-   ii. Try to sumbit the empty form and verify that an error message about the required fields appears.
-   iii. 
+Sign-up Form:
+i. Go to the Sign-up section
+ii. Try to submit the empty form and verify that an error message about the required fields appears.
+iii. 
+
 ## Credits
 ### Content
 * The paragraph describing Wave to Earth in the About section has been diretly copied from Wave to Earth's offical [YouTube](http://www.youtube.com/@wavetoearth) account About section.
