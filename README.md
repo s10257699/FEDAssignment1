@@ -26,7 +26,7 @@ In this section, I would go over the different parts of the website.
   The "Tour" secion keeps event-goers informed about upcoming concerts and events, allowing them to plan and experience Wave to Earth live.
 
 * Feature 4: **Merch**  
-  In the "Merch" section, ans can explore and purchase exclusive merchandise, fostering a deeper connection with the band and providing a concrete way to support their favourite artists.
+  In the "Merch" section, fans can explore and purchase exclusive merchandise, fostering a deeper connection with the band and providing a concrete way to support their favourite artists.
 
 * Feature 5: **Sign Up**  
   The "Sign Up" feature enables users to join the community, ensuring they stay updated on the latest releases, tour dates, and exclusive content.
