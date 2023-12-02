@@ -75,3 +75,8 @@ In this section, I will be mentioning all of the languages, frameworks, librarie
 * The YouTube logo was obtained from [ICONFINDER](https://www.iconfinder.com/icons/5305164/play_video_youtube_youtube_logo_icon).
 * The Twitter logo was obtained from [ICONFINDER](https://www.iconfinder.com/icons/11053969/x_logo_twitter_new_brand_contained_x.com_social_icon).
 * The Spotify logo was obtained from [ICONFINDER](https://www.iconfinder.com/icons/621252/rounded_spotify_icon).
+
+## Acknowledgements
+* I drew inspiration from [Ed Sheeran's website](https://www.edsheeran.com/) for the background video and from [Taylor Swift's website](https://www.taylorswift.com/tour/) for the layout of the tour dates in the Tour section.
+* I received inspiration from [Ed Sheeran's website](https://www.edsheeran.com/) for the displaying of merch content.
+* The layout in the Sign up section was inspired from [Coldplay's website](https://www.coldplay.com/sign-up/).
