@@ -67,7 +67,8 @@ In this section, I will be mentioning all of the languages, frameworks, librarie
 #### Merch Section
 * The 'Wave to Earth Hoodie' image was taken from [Etsy](https://www.etsy.com/sg-en/listing/1555856078/wave-to-earth-hoodie-homesick-unisex?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=wave+to+earth+shirt&ref=sr_gallery-1-4&pro=1&sts=1&organic_search_click=1).
 * The 'Wave to Earth Necklace Collection' image was taken from [Etsy](https://www.etsy.com/sg-en/listing/1535554800/wave-to-earth-inspired-necklace?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=wave+to+earth+shirt&ref=sr_gallery-1-2&frs=1&organic_search_click=1).
-* * The 'Wave to Earth North America Tour Shirt' image was taken from [Etsy](https://www.etsy.com/sg-en/listing/1540228176/wave-to-earth-shirt-flaws-and-all-album?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=wave+to+earth+shirt&ref=sr_gallery-1-1&pro=1&sts=1&organic_search_click=1).
+#### Tour Section
+* The 'Wave to Earth North America Tour Shirt' image was taken from [Etsy](https://www.etsy.com/sg-en/listing/1540228176/wave-to-earth-shirt-flaws-and-all-album?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=wave+to+earth+shirt&ref=sr_gallery-1-1&pro=1&sts=1&organic_search_click=1).
 #### Footer
 * The Facebook logo was obtained from [ICONFINDER](https://www.iconfinder.com/icons/5282541/fb_social_media_facebook_facebook_logo_social_network_icon).
 * The Instagram logo was obtained from [ICONFINDER](https://www.iconfinder.com/icons/5282541/fb_social_media_facebook_facebook_logo_social_network_iconhttps://www.iconfinder.com/icons/1161953/instagram_icon).
