@@ -46,10 +46,12 @@ In this section, I will be mentioning all of the languages, frameworks, librarie
   - Additionally, JavaScript is utilized for scroll animations and styling changes, dynamically adjusting the header's size, position, and content presentation based on the user's scroll behavior, enhancing the overall visual appeal and navigation experience.
 
 ## Testing
-Sign-up Form:
-i. Go to the Sign-up section
-ii. Try to submit the empty form and verify that an error message about the required fields appears.
-iii. 
+1. Sign-up Form:
+   * Go to the Sign-up section.
+   * Try to submit the empty form and verify that an error message about the required fields appears.
+   * Try to submit the form with an invalid email address (e.g., no '@' or '.com') and verify that a relevant error message appears.
+
+In this section, I will be highlighting the responsiveness of my website, ensuring optimal user experience across various browsers and screen szies. My website has been designed and tested to be compatible with both phone-sized screens and traditional computer screens. The responsive design adapts seamelssly to different resolutions, ensuring that users can enjoy a consistent user-friendly interface whether they access the site from a smartphone or computer. This commitment to responsiveness enhances accessbility and usability, ocntributing to a positive and inclusive user experience across diverse devices.
 
 ## Credits
 ### Content
