@@ -18,23 +18,23 @@ In this section, I would go over the different parts of the website.
 ### Existing Features
 * Feature 1: **About**  
   The "About" section provides users with a comprehensive overview of Wave to Earth, detailing the band's history, members, and their unique musical journey.
-  * Hovering over each member's profile image triggers an enlargement effect, accompanied by a cursor change to a pointing finger, indicating clickability. Clicking on the images opens a new tab, directing users to their respective Instagram profiles. This interactive feature allows users to delve deeper into each member's background and personality.
+  * Hovering over each member's profile image triggers an enlargement effect, accompanied by a cursor change to a pointing finger, indicating click ability. Clicking on the images opens a new tab, directing users to their respective Instagram profiles. This interactive feature allows users to delve deeper into each member's background and personality.
 
 * Feature 2: **Music**  
   The "Music" feature allows fans and newcomers to explore the band's discography, providing a curated collection of albums and songs. Fans can easily discover and enjoy Wave to Earth's entire musical catalogue.
-  * A featured YouTube videp within this section showcases the latest album release, inviting fans or newcomers to click and listen. Additionally, adjacent to the video, the band's album or episode discography is displayed. Each album and its title exhibit an enlargement effect upon hovering, providing users with more information. Clicking on any album directs users to the respective Spotify page, allowing them to listen to the selected album.
+  * A featured YouTube video within this section showcases the latest album release, inviting fans or newcomers to click and listen. Additionally, adjacent to the video, the band's album or episode discography is displayed. Each album and its title exhibit an enlargement effect upon hovering, providing users with more information. Clicking on any album directs users to the respective Spotify page, allowing them to listen to the selected album.
 
 * Feature 3: **Tour**  
   The "Tour" section keeps event-goers informed about upcoming concerts and events, allowing them to plan and experience Wave to Earth live.
-  * In this section, the tour dates are showcased in an organised manner, displaying the day, date, and location of each event. Accompanying each entry are buttons labeled "TICKET". Upon hovering, these buttons change colour, indicating to users that they are clickable. Clicking on these buttons directs users to the ticketing website, opening a new tab for a seamless ticket-purchasing experience. Additionallyl, there is also a recorded video background of Wave to Earth's past concert, providing a glimpse into the band's live performances.
+  * In this section, the tour dates are showcased in an organised manner, displaying the day, date, and location of each event. Accompanying each entry are buttons labelled "TICKET". Upon hovering, these buttons change colour, indicating to users that they are clickable. Clicking on these buttons directs users to the ticketing website, opening a new tab for a seamless ticket-purchasing experience. Additionally, there is also a recorded video background of Wave to Earth's past concert, providing a glimpse into the band's live performances.
     
 * Feature 4: **Merch**  
   In the "Merch" section, fans can explore and purchase exclusive merchandise, fostering a deeper connection with the band and providing a concrete way to support their favourite artists.
-  * Each merch item and its name have an interactive feature. The image of each merch has an enlarging effect upon hovering, and the name of the merch changes from black and white, adding a dynamic visual element to the user experience, indirectly signaling to users that these elements are clickable and encouraging further exploration.
+  * Each merch item and its name have an interactive feature. The image of each merch has an enlarging effect upon hovering, and the name of the merch changes from black and white, adding a dynamic visual element to the user experience, indirectly signalling to users that these elements are clickable and encouraging further exploration.
 
 * Feature 5: **Sign Up**  
   The "Sign Up" feature enables users to join the community, ensuring they stay updated on the latest releases, tour dates, and exclusive content.
-  * Over here, users can sign up by filling up the form. When done, there is a pop-up message that says "Thank you for signing up!". It also displays an error message when users try clicking on the sign-up button without entering anything into the form. This provides a clear and informative feedback mechanish for user interactions.
+  * Over here, users can sign up by filling up the form. When done, there is a pop-up message that says "Thank you for signing up!". It also displays an error message when users try clicking on the sign-up button without entering anything into the form. This provides a clear and informative feedback mechanism for user interactions.
 
 ## Technologies Used
 In this section, I will be mentioning all of the languages, frameworks, libraries, and any other tools that I have used to construct this project. 
