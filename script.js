@@ -3,17 +3,18 @@ document.addEventListener('DOMContentLoaded', function () {
     var header = document.getElementById('heading');
     var waveToEarth = header.querySelector('h1');
     var navigationLinks = header.querySelector('p.round3');
-    var smallHeightThreshold = 70; // Adjust this value based on when you want the elements to stay small
+    var smallHeightThreshold = 70; // This variable sets the threshold value for when the elements should stop scaling and stay small
 
     
-    window.addEventListener('scroll', function () {
-        var scrollY = window.scrollY;
-        var scale = 1 - Math.min(scrollY / smallHeightThreshold, 1);
+    window.addEventListener('scroll', function () {  //Adds an event listener to the window, listening for scroll events
+        var scrollY = window.scrollY;  //This variable stores the vertical scroll position of the window
+        var scale = 1 - Math.min(scrollY / smallHeightThreshold, 1);  /*This calculates the scaling factor based on the scroll position. 
+        The elements will scale down as the user scrolls*/
 
         // Apply the scaling to the header height
         header.style.height = 190 * scale + 'px';
 
-        // Check if scroll position is beyond the threshold to add the class
+        //  This adds or removes the 'small-height' class from the header based on whether the scroll position is beyond the threshold.
         if (scrollY >= smallHeightThreshold) {
             header.classList.add('small-height');
         } else {
@@ -27,18 +28,38 @@ document.addEventListener('DOMContentLoaded', function () {
         navigationLinks.style.transform = 'translateY(-' + offset + 'px)';
 
         // Set a fixed left offset to move "Wave to Earth" all the way to the left
-        var leftOffset = scale < 0.8 ? 1300 : 0;
+        var leftOffset;
 
+        if (scale < 0.8) {
+            leftOffset = 1300;
+        } else {
+            leftOffset = 0;
+        }
+        
         // Apply the left offset to move "Wave to Earth" to the left
         waveToEarth.style.marginLeft = '-' + leftOffset + 'px';
 
         // Move h1 and p.round3 higher after scrolling down
-        var moveUp = scale < 0.8 ? 5 : 0; // Adjust the value based on your preference
-        waveToEarth.style.marginTop = '-' + moveUp + 'px';
-        navigationLinks.style.marginTop = '-' + (moveUp + offset) + 'px'; // Adjusted here
+        var moveUp;
+
+        if (scale < 0.8) {
+            moveUp = 5;
+        } else {
+            moveUp = 0;
+        }
+
+        waveToEarth.style.marginTop = '-' + moveUp + 'px'; //Determines the vertical movement for the "Wave to Earth" and navigation links after scrolling down.
+        navigationLinks.style.marginTop = '-' + (moveUp + offset) + 'px'; 
 
         // Move "Wave to Earth" down a bit after scrolling
-        var moveDown = scale < 0.8 ? -72 : 0; // Adjust the value based on your preference
+        var moveDown;
+
+        if (scale < 0.8) {
+            moveDown = -72;
+        } else {
+            moveDown = 0;
+        } // Determines the vertical movement for "Wave to Earth" after scrolling.
+        
         waveToEarth.style.marginTop = moveDown + 'px';
 
         // Display "wave to" and "earth" on separate lines when the header is smaller
@@ -72,6 +93,6 @@ document.addEventListener('DOMContentLoaded', function () {
         // Setting a timeout to hide the popup after a certain duration
         setTimeout(function () {
             popup.style.display = 'none';
-        }, 1000); // 3000 milliseconds (3 seconds) in this example
+        }, 1000); // 3000 milliseconds (3 seconds) 
     }
 });
