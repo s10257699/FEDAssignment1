@@ -1,24 +1,25 @@
 #heading {
-    position: fixed;
+    position: fixed; /* Fixed position to stay at the top during scrolling */
     top: 0;
     left: 0;
     width: 100%;
     font-family: 'Noto Sans JP', sans-serif;
-    background: url('Images/waves1.gif') center center;
-    background-size: 100%;
-    color: whitesmoke;
-    padding-top: 85px;
-    padding-bottom: 40px;
+    background: url('Images/waves1.gif') center center; /* Background image centered */
+    background-size: 100%; /* Cover the entire header with the background image */
+    color: whitesmoke; /* Text color */
+    padding-top: 85px; /* Add padding to the top */
+    padding-bottom: 40px; /* Add padding to the bottom */
     text-align: center;
-    height: 170px;
-    transition: height 0.6s;
-    z-index: 2;
+    height: 170px; /* Initial height of the header */
+    transition: height 0.6s; /* Smooth transition effect for height changes */
+    z-index: 2; /* Ensures the header stays above other elements */
 }
 
 #heading.scrolled {
-    height: 10px; /* Adjust the height as needed */
+    height: 10px; /* Reduced height when scrolled */
 }
 
+/* Styling for rounded navigation bar*/
 p.round3 {
     border: 2px solid white;
     border-radius: 30px;
@@ -27,7 +28,7 @@ p.round3 {
 }
 
 p.round3 a {
-    color: rgb(211, 211, 211);
+    color: rgb(211, 211, 211); /* Link color */
     text-decoration: none;
     margin: 15px;
     font-weight: bold;
@@ -44,20 +45,20 @@ p.round3 a {
     align-items: center;
     background-color: aliceblue;
     width: 100%;
-    margin-top: -10px; /* Adjust the margin-top value */
+    margin-top: -10px; 
 }
 
 #image-container {
     width: 395px;
     height: 525px;
-    padding-top: 300px;
+    padding-top: 300px; /* Adding padding for better visual spacing */
     padding-left: 25px;
 }
 
 #cropped-image {
     width: 85%;
     height: 85%;
-    object-fit: full;
+    object-fit: full; /* Full object fit within the container */
     border-radius: 10%;
 }
 
@@ -77,7 +78,7 @@ p.round3 a {
     margin-top: 10px;
 }
 
-#member1-image-container:hover img {
+#member1-image-container:hover img { /* Enlargement on hover */
     transform: scale(1.06); /*This is to control the degree of enlargement or reduction*/
     transition: transform 0.2s; /* Add a smooth transition effect */
 }
@@ -85,7 +86,7 @@ p.round3 a {
 #member1-image{
     width: 100%;
     height: 100%;
-    border-radius: 100%;
+    border-radius: 100%; /* Creating a circular image */
 }
 
 #member1-desc-container{
@@ -121,7 +122,7 @@ p.round3 a {
 #member2-image{
     width: 100%;
     height: 100%;
-    border-radius: 100%;
+    border-radius: 100%; /* Creating a circular image */
 }
 
 #member2-desc-container {
@@ -157,7 +158,7 @@ p.round3 a {
 #member3-image{
     width: 100%;
     height: 100%;
-    border-radius: 100%;
+    border-radius: 100%; /* Creating a circular image */
 }
 
 #member3-desc-container {
@@ -180,31 +181,31 @@ p.round3 a {
 
 /*Music Section*/
 #music-container {
-    background-color: rgb(184, 219, 235);
+    background-color: rgb(184, 219, 235); /* Background color for the music container */
     width: 95%; /* Change to 100% for full width */
     height: 485px;
-    padding: 70px;
+    padding: 70px; /* Add padding for internal spacing */
     margin-left: -40px;
     margin-top: -90px;
 }
 
 
 #video-container {
-    background-color: rgb(212, 233, 243); /* Light grey with 50% transparency */
-    width: 650px; /* Adjust width as needed */
-    height: 425px; /* Adjust height as needed */
-    border: 10px solid rgb(212, 233, 243); /* Light grey border with 50% transparency */
-    border-radius: 15px; /* Adjust the radius as needed */
-    box-sizing: border-box; /* Include border and padding in the element's total width and height */
+    background-color: rgb(212, 233, 243); /* Background color */
+    width: 650px; /* Width of the video container */
+    height: 425px; /* Height of the video container */
+    border: 10px solid rgb(212, 233, 243); /* Border color and size */
+    border-radius: 15px; /* Border radius to create rounded corners */
+    box-sizing: border-box; 
     padding-bottom: 50px;
-    text-align: center;
-    font-size: 14px;
-    font-family: 'Lexend', sans-serif;
+    text-align: center; /* Center-align text within the container */
+    font-size: 14px; /* Font size for text inside the container */
+    font-family: 'Lexend', sans-serif; /* Font family for text inside the container */
 }
 
 #video-container iframe {
-    width: 100%;
-    height: 100%;
+    width: 100%; /* Full width for embedded iframe */
+    height: 100%; /* Full height for embedded iframe */
     border-radius: 10px; /* Adjust the radius to round the corners of the video */
 }
 
@@ -217,18 +218,18 @@ p.round3 a {
 }
 
 #album1-container:hover img {
-    transform: scale(1.1); /* Increase the scale to 1.1 on hover (adjust as needed) */
+    transform: scale(1.1); /* Increase the scale to 1.1 on hover*/
     transition: transform 0.2s; /* Add a smooth transition effect */
 }
 
 #album1-image {
     width: 100%;
     height: 100%;
-    border-radius: 10%;
+    border-radius: 10%; /* Border radius to create rounded corners */
 }
 
 #album1-desc-container{
-    text-align: left;
+    text-align: left; /* Align text to the left */
     margin-left: 1044px;
     margin-top: -101px;
     font-size: 15px;
@@ -291,7 +292,7 @@ p.round3 a {
 }
 
 #album3-container:hover img {
-    transform: scale(1.1); /* Increase the scale to 1.1 on hover (adjust as needed) */
+    transform: scale(1.1); /* Increase the scale to 1.1 on hover*/
     transition: transform 0.2s; /* Add a smooth transition effect */
 }
 
@@ -355,9 +356,9 @@ p.round3 a {
 }
 
 .main-text {
-    font-family: 'Lexend', sans-serif; /* Replace with your desired font */
-    font-size: 44px; /* Adjust as needed */
-    font-weight: bold; /* Adjust as needed */
+    font-family: 'Lexend', sans-serif; 
+    font-size: 44px;
+    font-weight: bold; 
     color: whitesmoke;
 }
 
@@ -375,12 +376,12 @@ p.round3 a {
 
 /*Tour-date1*/
 #tour-date1-container{
-    display: flex;
+    display: flex; /* Use flexbox for layout */
 }
 
 .date, .day, .location, .country {
-    font-family: 'Lexend', sans-serif;
-    color: whitesmoke;
+    font-family: 'Lexend', sans-serif; /* Set font family for consistency */
+    color: whitesmoke; /* Set text color */
 }
 
 .date {
@@ -388,7 +389,7 @@ p.round3 a {
     font-weight: bold;
     margin-left: 170px;
     margin-top: 50px;
-    display: flex;
+    display: flex; /* Use flexbox for layout */
 }
 
 .day {
@@ -401,7 +402,7 @@ p.round3 a {
     font-size: 24px;
     margin-left: 448px;
     margin-top: -52px; 
-    display: flex;
+    display: flex; /* Use flexbox for layout */
     text-align: center;
 }
 
@@ -413,12 +414,12 @@ p.round3 a {
 
 /*Tour-date2*/
 #tour-date2-container{
-    display: flex;
+    display: flex; /* Use flexbox for layout */
 }
 
 .date2, .day2, .location2, .country2 {
-    font-family: 'Lexend', sans-serif;
-    color: whitesmoke;
+    font-family: 'Lexend', sans-serif; /* Set font family for consistency */
+    color: whitesmoke; /* Set text color */
 }
 
 .date2 {
@@ -503,14 +504,14 @@ p.round3 a {
     height: 475px;
     padding: 70px;
     margin-left: -40px;
-    margin-top: -90px; /* Adjust the margin-top value */
+    margin-top: -90px; /*To push the merch container to be under the tour section without any white gaps in between*/
 }
 
 /*Merch1*/
 #merch1-image-container{
     width: 380px;
     height: 380px;
-    margin-left: -10px; /* Adjust the margin as needed */
+    margin-left: -10px; 
     margin-top: -14px;
 }
 
@@ -579,14 +580,14 @@ p.round3 a {
 }
 
 #merch2-desc-container a:hover {
-    color: white
+    color: white; /* Change text color on hover */
 }
 
 /*Merch3*/
 #merch3-image-container{
     width: 380px;
     height: 380px;
-    margin-left: 1027px; /* Adjust the margin as needed */
+    margin-left: 1027px; 
     margin-top: -420px;
 }
 
@@ -616,7 +617,7 @@ p.round3 a {
 }
 
 #merch3-desc-container a:hover {
-    color: white
+    color: white; /* Change text color on hover */
 }
 
 /*buy-now-button-1 position and colour transition*/
@@ -651,10 +652,9 @@ p.round3 a {
 
 #buy-now-button-2 a {
     border-radius: 35px;
-    background: white;
-    padding: 13px 40px;
+    background: white; /*Make the button colour white*/
+    padding: 13px 40px; /*Aligning of the words in the button*/
     font-family: 'Lexend', sans-serif;
-    font-size: 17px;
     font-size: 17px;
     color: black;
     text-align: center;
@@ -698,7 +698,7 @@ p.round3 a {
 }
 
 #visit-store a{
-    color: black;
+    color: black; /*Black text fotn color*/
     font-family: 'Lexend', sans-serif;
     font-size: 17px;
 }
@@ -721,7 +721,7 @@ p.round3 a {
     height: 576px;
     padding: 70px;
     margin-left: -40px;
-    margin-top: -20px; /* Adjust the margin-top value */
+    margin-top: -20px; 
     text-align: center;
 }
 
@@ -734,14 +734,14 @@ p.round3 a {
 #signup-text {
     margin-top: 30px;
     margin-left: 220px;
-    line-height: 1.5; /* Adjust the line height as needed */
+    line-height: 1.5; 
     font-family: 'Lexend', sans-serif;
     text-align: center;
     width: 370px
 }
 
 #vertical-line {
-    border-left: 5px solid black; /* Adjust color and thickness as needed */
+    border-left: 5px solid black; /* This adjusts the color and thickness for the vertical line*/
     height: 70%;
     margin-left: 710px;
     margin-top: -245px;
@@ -786,7 +786,7 @@ p.round3 a {
 }
 
 #signup-form button {
-    background-color: rgb(221, 221, 231);
+    background-color: rgb(221, 221, 231); /* Make the fill in boxes be grey*/
     color: black;
     padding: 10px 20px;
     border: none;
@@ -820,7 +820,7 @@ p.round3 a {
     background-color: lavender;
     margin-left: -70px;
     margin-top: 150px;
-    padding: 70px; /* Adjust the padding to control the height */
+    padding: 70px; /* Adjust the padding to control the height of footer */
     text-align: center;
     width: 100%;
     font-family: 'Lexend', sans-serif;
@@ -914,8 +914,6 @@ p.round3 a {
 
 html, body {
     scroll-behavior: smooth;
-    margin: -1; /* Add this to remove default margin */
-    padding: 0; /* Add this to remove default padding */
 }
 
 
@@ -1176,7 +1174,7 @@ html, body {
     #merch1-image-container{
         width: 160px;
         height: 160px;
-        margin-left: 30px; /* Adjust the margin as needed */
+        margin-left: 30px; 
         margin-top: -32px;
     }
 
@@ -1193,7 +1191,7 @@ html, body {
     #merch2-image-container{
         width: 160px;
         height: 160px;
-        margin-left: 235px; /* Adjust the margin as needed */
+        margin-left: 235px; 
         margin-top: 104px;
     }
 
